@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BeerOrder</string>
+
+    <string-array name="beerlist">
+
+        <item>Helles Lager</item>
+        <item>Heineken</item>
+        <item>Stella Artois</item>
+        <item>Lagunitas IPA</item>
+        <item>Brooklyn Lager</item>
+        </string-array>
+
+    <string name="textprompt">Please select a beer, pick a table and press order! </string>
+    <string name="buttontext">Order</string>
+    <string-array name="tablelist">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="beertextview">Beer: </string>
+    <string name="tablenumview">Table Number: </string>
+
+</resources>
